@@ -19,7 +19,7 @@ This screen is basically one of screen of my projects which i am currently worki
 
 The packages Which are used are :
 
-<a href="https://github.com/react-native-maps/react-native-maps/blob/master/docs/installation.md">
+<a href="https://github.com/react-native-maps/react-native-maps">
 
 react-native-maps  
 
