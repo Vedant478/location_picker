@@ -2,22 +2,24 @@
 
 <h1 align="center">
   <a href="https://reactnative.dev/">
-    React Native
+    React Native PROJECT
   </a>
 </h1>
 
-Make a new react-native Project 
-
+Create a new react-native project and enter the project name.
 ```sh
 $ npx react-native init AwesomeProject
 
 ```
 
-And then u can use my code and I have also have given package.json file to see what all versions I used in my project 
+After that, you can use my code and the package I've provided.
 
-This screen is basically one of screen of my projects which i am currently working with so ignore the rest of packages u can only add those packages which are been used 
 
-The packages Which are used are :
+See my project's json file for a list of all the versions I utilised.
+
+Ignore the other packages since this is basically one of the screens for one of my ongoing projects; you may only add packages that have been referenced.
+
+The following packages are used:
 
 <a href="https://github.com/react-native-maps/react-native-maps">
 
